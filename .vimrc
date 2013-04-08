@@ -1,5 +1,5 @@
 
-set ts=4
+set ts=2
 set sw=2
 set smartindent
 set autoindent
