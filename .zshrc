@@ -121,3 +121,4 @@ export PATH=/home/bshewan/.opencode/bin:$PATH
 
 alias luamake="'/home/bshewan/.local/share/lua-language-server/3rd/luamake/luamake'"
 alias config='/usr/bin/git --git-dir=$HOME/.dotfiles/ --work-tree=$HOME'
+alias vi='nvim'
